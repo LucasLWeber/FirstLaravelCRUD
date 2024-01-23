@@ -114,4 +114,4 @@ module.exports = {
 <span>Rode no terminal run build e run dev novamente</span>
 
 ## Um breve gif da aplicação
-<img src="./app.gif" width="80" height="80" />
+<img src="./app.gif" width="766" height="480" />
