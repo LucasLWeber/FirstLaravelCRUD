@@ -112,3 +112,6 @@ module.exports = {
   @vite(['resources/css/app.css', 'resources/js/app.js'])
 ```
 <span>Rode no terminal run build e run dev novamente</span>
+
+## Um breve gif da aplicação
+<img src="./app.gif" width="80" height="80" />
